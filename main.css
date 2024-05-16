@@ -1,0 +1,99 @@
+
+
+header{
+    font-family: 'Playfair Display', sans-serif;
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: rgb(1, 59, 35);
+    color: #fff;
+    z-index: 1000;
+}
+
+.nav-item a{
+    color: #fff;
+}
+
+.nav-item img{
+    width: 25px;
+}
+
+.navbar-nav .nav-link.active {
+    color: #fff;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+
+#produtos{
+    height: auto;
+}
+
+.container .box{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+#quem-somos,
+#contato{
+
+    height: auto;
+    padding: 80px;
+    background-color: rgb(1, 59, 35);
+    color: #fff;
+}
+
+#receitas,
+#produtos{
+    height: auto;
+    padding: 80px;
+}
+
+#receitas h2,
+#produtos h2{
+    color:  rgb(1, 59, 35);
+}
+
+h2{
+    font-family: 'Playfair Display', sans-serif;
+}
+
+#quem-somos h2,
+#contato h2,
+#produtos h2{
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+
+#quem-somos img{
+    padding-right: 15px;
+}
+
+#quem-somos p{
+    padding-top: 15px;
+}
+
+#receitas{
+    height: 100vh;
+    background-color: #fff;
+    padding-top: 120px;
+}
+
+#contato{
+    height: 100vh;
+    background-color: rgb(1, 59, 35);
+    color: #fff;    
+}
+
+#contato button{
+    color: #fff;
+}
+
+
+
+footer{
+    color: rgb(1, 59, 35);
+    padding-top: 10px;
+}
